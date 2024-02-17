@@ -58,9 +58,6 @@ FTPFileTransfer facilitates the transfer of files between a remote FTP server an
 - Ensure that the program is executed with the necessary permissions to access files and directories.
 
 Feel free to customize the configuration parameters and adjust the program according to your specific requirements.
-
-```
-
 Feel free to make further adjustments to fit your preferences or provide more details.
 
 ## License
