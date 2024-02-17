@@ -45,7 +45,7 @@ FTPFileTransfer facilitates the transfer of files between a remote FTP server an
    ```bash
    python main.py
    ```
-6.Check the `ftp_transfer_logger.log` file for program logs and any potential issues.
+5.Check the `ftp_transfer_logger.log` file for program logs and any potential issues.
 
 ## Configuration:
    - Ensure that the config.ini file includes all the mandatory parameters (ftp_host, ftp_port, ftp_user, ftp_password, ftp_directory, schedule).
