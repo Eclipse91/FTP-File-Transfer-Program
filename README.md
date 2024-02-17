@@ -23,7 +23,6 @@ FTPFileTransfer facilitates the transfer of files between a remote FTP server an
 ## Requirements
 
 - Python 3.6 or higher
-- Required Python packages can be installed using `pip install -r requirements.txt`
 
 ## Usage
 
@@ -39,15 +38,9 @@ FTPFileTransfer facilitates the transfer of files between a remote FTP server an
    cd FTP-File-Transfer-Program
    ```
 
-3. Install the required dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Explore Configuration Below
+3. Explore Configuration Below
    Update the config.ini adding the parameters required
-5. Run the application:
+4. Run the application:
 
    ```bash
    python main.py
