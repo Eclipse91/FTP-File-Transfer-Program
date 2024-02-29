@@ -58,5 +58,5 @@ This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the [LICENSE
 - Ensure that the program is executed with the necessary permissions to access files and directories.
 
 Feel free to contribute or report issues!
-This README provides a clearer structure, concise information, and instructions for setting up and running the QuestionsWebApp. Adjust the content as needed for your project.
+This README provides a clearer structure, concise information, and instructions for setting up and running the FTP-File-Transfer-Program. Adjust the content as needed for your project.
 
