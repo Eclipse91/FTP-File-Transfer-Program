@@ -20,7 +20,7 @@ FTPFileTransfer facilitates the transfer of files between a remote FTP server an
 
 - Python 3.6 or higher
 
-## Usage
+## Getting Started
 
 1. Clone the repository:
 
