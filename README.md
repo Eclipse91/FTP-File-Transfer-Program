@@ -1,7 +1,5 @@
 # FTP File Transfer Program
 
-## Overview
-
 The FTP File Transfer program is designed to automate the transfer of files between a remote FTP server and local/internal network directories. It includes features for scheduling tasks, logging, and reading configuration parameters from a `config.ini` file.
 
 ## Files
