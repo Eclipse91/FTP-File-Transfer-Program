@@ -2,19 +2,11 @@
 
 The FTP File Transfer program is designed to automate the transfer of files between a remote FTP server and local/internal network directories. It includes features for scheduling tasks, logging, and reading configuration parameters from a `config.ini` file.
 
-## Files
+## Application Structure
 
-### `main.py`
-
-The main script for scheduling and running daily reports.
-
-### `config_reader.py`
-
-A class for reading and validating configuration parameters from a `config.ini` file.
-
-### `ftp_file_transfer.py`
-
-FTPFileTransfer facilitates the transfer of files between a remote FTP server and local/internal network directories.
+- **main.py**: The main script for scheduling and running daily reports.
+- **config_reader.py**: A class for reading and validating configuration parameters from a `config.ini` file.
+- **ftp_file_transfer.py**: FTPFileTransfer facilitates the transfer of files between a remote FTP server and local/internal network directories.
 
 ## Requirements
 
@@ -34,8 +26,7 @@ FTPFileTransfer facilitates the transfer of files between a remote FTP server an
    cd FTP-File-Transfer-Program
    ```
 
-3. Explore Configuration Below
-   Update the config.ini adding the parameters required
+3. Update the config.ini adding the parameters required, follow the steps outlined in the [Configuration](#configuration) section.
 4. Run the application:
 
    ```bash
