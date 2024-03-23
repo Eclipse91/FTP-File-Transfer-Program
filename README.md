@@ -26,7 +26,7 @@ The FTP File Transfer program is designed to automate the transfer of files betw
    cd FTP-File-Transfer-Program
    ```
 
-3. Update the config.ini adding the parameters required, follow the steps outlined in the [Configuration](#configuration) section.
+3. Update the config.ini adding the parameters required, follow the steps outlined in the [Configuration](#configuration) section
 4. Run the application:
 
    ```bash
